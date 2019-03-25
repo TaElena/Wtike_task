@@ -1,0 +1,5 @@
+core\ResendPage.class
+core\LoginMainPage.class
+core\HelperBase.class
+tests\WrikeTest.class
+core\TestBase.class
