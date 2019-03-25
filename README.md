@@ -1,7 +1,7 @@
 # Wtike task
 Automation Test
 
-#Test case scenario:
+## Test case scenario:
 
 Open url: wrike.com;
 * Click "Get started for free" button near "Login" button;
@@ -12,7 +12,7 @@ Open url: wrike.com;
 * Check that section "Follow us" at the site footer contains the "Twitter" button that leads to the correct url and has the correct icon;
 * Create results report using allure plugin. 
 
-#Running the test
+## Running the test
 To run the tests, you must use the command
 ```
 mvn claen test
@@ -22,10 +22,10 @@ For an Allure-report, you must use the command
 allure serve
 ```
 
-#Author
+## Author
 * **Talalova Elena** - [TaElena](https://github.com/TaElena) 
 
-#Stack of technologies for implementation
+## Stack of technologies for implementation
 
 * Platform: java8
 * Build: maven
